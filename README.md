@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @kjyoffice
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 안녕하세요. @kjyoffice 입니다.
+- 👀 저는 기술적인 내용을 좋아라 합니다. 😆 
+- 🌱 여전히 배우고 있다고 하고싶지만 생각처럼 빠릿빠릿 하지 않네요... 🥲
+- 💞️ 협업을 통하여 영감을 받거나 기술적 성장을 하고 싶어요.
+- 📫 연락은 이슈 써주세요 😊
 
-<!---
-kjyoffice/kjyoffice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+# 👋 Hi, I’m @kjyoffice
+- 👀 I’m interested in technology. 😆 
+- 🌱 I’m currently learning ... but so slow... 🥲
+- 💞️ I’m looking to collaborate on my inspiration and grow up.
+- 📫 How to reach me ... write to normal issue. 😊
+- English level is baby. perhaps age 1 😅
